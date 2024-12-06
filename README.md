@@ -5,25 +5,22 @@ Welcome to the SQL Portfolio Project. In this project, we will be exploring a da
 # Table of Contents
 
 ## 1.Download the Dataset
-## 2.Import the Dataset
-## 3.Exploration and Analysis
-
-
-
-# Download the Dataset
 
 Download the credit card transactions dataset from this Kaggle link.
 
 Note: Alternatively, you can use the dataset provided in the zip file if available.
 
-# Import the Dataset
 
-Import the dataset into your SQL server using the table name: credit_card_transactions.
-Convert all column names to lowercase before importing.
-Replace spaces within column names with underscores (e.g., "Credit Card" should be renamed to "credit_card").
-While importing, adjust the data types of columns, as they might be defaulted to varchar.
+## 2.Import the Dataset
 
-# Exploration and Analysis
+
+Download the credit card transactions dataset from this Kaggle link.
+
+Note: Alternatively, you can use the dataset provided in the zip file if available.
+
+
+## 3.Exploration and Analysis
+
 
 Top Spending Cities: Extract the top 5 cities with the highest credit card spends and their percentage contribution of the total.
 
