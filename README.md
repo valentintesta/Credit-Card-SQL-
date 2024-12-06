@@ -4,9 +4,9 @@ Welcome to the SQL Portfolio Project. In this project, we will be exploring a da
 
 # Table of Contents
 
-Download the Dataset
-Import the Dataset
-Exploration and Analysis
+## 1.Download the Dataset
+## 2.Import the Dataset
+## 3.Exploration and Analysis
 
 
 
